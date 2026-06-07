@@ -50,6 +50,9 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
     - Hegel’s Science of Logic, all volumes.
 
 - **How to design software for note takers**
+  - **Hypertext**
+    - Vannevar Bush (1945). As We May Think. The Atlantic Monthly. https://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf
+      *Core Contribution: Einführung des Konzepts "Memex" und des assoziativen Indexierens (die theoretische Grundlage moderner Hyperlinks und Backlinks).* 
   - **Information Retrieval**
     - Manning, Raghavan, & Schütze. (2008). Introduction to Information Retrieval. https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf 
 
