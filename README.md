@@ -69,7 +69,7 @@ https://github.com/tehtbl/awesome-note-taking
 - SPARQL Database
 https://github.com/semantalytics/awesome-semantic-web?tab=readme-ov-file#databases
 
-[^1]: For further information read the first pages of metaphysics, aristoteles
+[^1]: Aristotle, *Metaphysics*, Book I, Chapter 1, 981a5–12. (Trans. W. D. Ross). "Now art arises when from many notions gained by experience one universal judgement about a class of objects is produced." Available online at [Documenta Catholica Omnia](https://www.documentacatholicaomnia.eu/03d/-384_-322,_Aristoteles,_13_Metaphysics,_EN.pdf#page=4).
 
 ## Selected List of Scientists and Philosophers Who Were Enabled by Note-Taking
 
