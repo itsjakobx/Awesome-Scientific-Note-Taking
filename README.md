@@ -16,7 +16,7 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
 ## Method
 The information will be grouped _iteratively_, we will start from a flat list, and step by step restructure the information to hopefully later arrive at a more refined ontology with emergent concepts.
 
-To see the work in progress that has been done, please use git log.
+To see the work in progress that has been done, please use `git log`.
 
 ## Ressources
 - **Argumentation Mining**
