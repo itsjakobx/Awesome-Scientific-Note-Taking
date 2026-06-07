@@ -1,7 +1,7 @@
-# Awesome Scientific Note-Taking
+# Awesome Theoretical Foundations of Note-Taking
 > Status (Draft): Expect typos ;)
 
-The goal is to create a bibliography that helps to find the scientific and theoretical foundations for note-taking. Theory will help raise note-taking from a craft to an art[^1]. Papers and other resources will be collected _iteratively_. However, nobody really publishes under the label “note-taking”. Different fields have developed their own terminology. Therefore, the terminology of different fields needs to be collected and mapped to create a more comprehensive view of what aspects of note-taking actually exist.
+The goal is to create a bibliography that helps to find the scientific and philosophical foundations for note-taking. Theory will help raise note-taking from a craft to an art[^1]. Papers and other resources will be collected _iteratively_. However, nobody really publishes under the label “note-taking”. Different fields have developed their own terminology. Therefore, the terminology of different fields needs to be collected and mapped to create a more comprehensive view of what aspects of note-taking actually exist.
 
 ## Working Definitions
 **Note**: For this repository we will define note as any Information that you capture for yourself, or that is captured through systems for you, in a way such that you can access the information more quickly and more connected than without that system.
@@ -18,7 +18,7 @@ The information will be grouped _iteratively_, we will start from a flat list, a
 
 To see the work in progress that has been done, please use `git log`.
 
-## Ressources
+## Resources
 - **Argumentation Mining**
   - Argumentationmining Homepage of http://argumentationmining.disi.unibo.it/publications.html
 
@@ -91,3 +91,9 @@ https://github.com/tehtbl/awesome-note-taking
 https://github.com/semantalytics/awesome-semantic-web?tab=readme-ov-file#databases
 
 [^1]: For further information read the first pages of metaphysics, aristoteles
+
+## Contributing
+Contributions are highly welcome! The scientific and philosophical literature is vast, and finding every critical piece of literature on your own is nearly impossible.
+
+You can contribute by:
+1. **PR**: *Submitting foundational resources* from any discipline that deals with capturing, structuring, or the semantic retrieval of information, whether through a Pull Request or by opening an Issue. The goal is collection first; since many ideas in note-taking cross into speculative philosophical realms like epistemology, we are intentionally not limited to empirical science alone.
