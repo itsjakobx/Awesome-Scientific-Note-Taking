@@ -17,7 +17,8 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
   - Argumentationmining Homepage of http://argumentationmining.disi.unibo.it/publications.html
 
   - Laying the foundations for a World Wide Argument Web https://doi.org/10.1016/j.artint.2007.04.015
-
+- **Organizational Theory**
+  - Exploration and Exploitation in Organizational Learning. https://www.jstor.org/stable/2634940
 - **Structure of Texts**
   - how to read a book https://mathscinotes.com/wp-content/uploads/2016/02/Adler-Mortimer-How-To-Read-A-Book.pdf
 
